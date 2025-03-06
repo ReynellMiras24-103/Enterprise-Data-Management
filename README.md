@@ -11,5 +11,5 @@ Hi, I'm Reynell Miras, a student at City College of Angeles pursuing a Bachelor 
 - Senior High school : Accountancy Business Management(ACSHS)
 - High School: Special Program in the arts(FGNMHS)
 ### My Projects
-- Midterm Lab Task 1:
+- Midterm Lab Task 1:[Midterm Lab Task 1]
 - Midterm Lab task 2:
