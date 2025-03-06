@@ -22,7 +22,7 @@ Mapped the Normalized tables as a Physical Data Model
 ![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/219108a03fc1832063411f1e60a2e5f460a630a7/Screenshot%202025-03-04%20133500.png
 )
 STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![image alt]
+![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/0921cdd203bf144cb4802df3a6d6b7a625a95603/Midterm%20Lab%20Task%201/Screenshot%202025-03-05%20230851.png)
 
 
 
