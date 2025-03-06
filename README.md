@@ -1,12 +1,15 @@
 # Enterprise-Data-Management
 
 ### About Me
-I am Reynell Miras student of City College of Angeles taking Bachelor of Science in Information Systems  
+Hi, I'm Reynell Miras, a student at City College of Angeles pursuing a Bachelor of Science in Information Systems. I'm passionate about technology, systems development, and data management. I strive to enhance my skills in Information Systems and explore innovative solutions to real-world challenges.
+### Skills
+-Data Analysis
+-Programing Language: c, python, SQL
+
 ### Education:
-- College: City College of Angeles (BSIS)
-- Senior High school : Angeles City Senior High School(ABM)
-- High School: Francisco G Nepomoceno Memorial High School(SPA)
-- Elementary: Don Ambrocio Mendiola Elementary shoool
+- Bachelor of Science in Information Systems(CCA)
+- Senior High school : Accountancy Business Management(ACSHS)
+- High School: Special Program in the arts(FGNMHS)
 ### My Projects
 Midterm Lab Task 1:Midterm Lab Task 1/README.md
 Midterm Lab task 2:
