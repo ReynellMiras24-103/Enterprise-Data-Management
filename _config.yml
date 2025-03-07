@@ -1,13 +1,5 @@
 title: Reynell Portfolio
-logo:assests/profile.jpg
+logo: assets/profile.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
-img[alt="Logo"] {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto;
-}
 
