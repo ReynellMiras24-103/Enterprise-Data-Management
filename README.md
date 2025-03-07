@@ -8,9 +8,9 @@
 - Programing Language: c, python, SQL
 
 ### Education:
-- College : Bachelor of Science in Information Systems(CCA):computer:
-- Senior High school : Accountancy Business Management(ACSHS):receipt:
-- High School: Special Program in the arts(FGNMHS):art:
+- College : Bachelor of Science in Information Systems(CCA) :computer:
+- Senior High school : Accountancy Business Management(ACSHS) :receipt:
+- High School: Special Program in the arts(FGNMHS) :art:
 
 ### My Projects
 - :open_file_folder:Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/tree/9ecab0a36b6d6305b8069ee1c765bad0e28c3225/Midterm%20Lab%20Task%201)
