@@ -1,5 +1,6 @@
 title: Reynell Portfolio
-logo: profile
+logo:assests/profile.jpg
+
 show_downloads: true
 theme: jekyll-theme-minimal
 
