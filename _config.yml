@@ -1,4 +1,5 @@
 title: Reynell Portfolio
 logo: assets/profile.jpg
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-slate
