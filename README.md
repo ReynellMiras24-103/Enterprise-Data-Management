@@ -7,7 +7,7 @@ Hi, I'm Reynell Miras, a student at City College of Angeles pursuing a Bachelor 
 - Programing Language: c, python, SQL
 
 ### Education:
-- Bachelor of Science in Information Systems(CCA)
+- College : Bachelor of Science in Information Systems(CCA)
 - Senior High school : Accountancy Business Management(ACSHS)
 - High School: Special Program in the arts(FGNMHS)
 
