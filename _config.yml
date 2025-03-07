@@ -1,5 +1,5 @@
 title: Reynell Portfolio
-logo:Profile
+logo: assests/profile.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
 img[alt="Logo"] {
