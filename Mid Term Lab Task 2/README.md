@@ -51,5 +51,6 @@ on generating insights that will answer the ff: questions
 ![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/a0786351c4fcde5feecf5f99ca094107483152a7/Mid%20Term%20Lab%20Task%202/Images/Sal_By_Sate_ref.png)
 
 ### Here's the Physical Data Model
+[Midterm Lab Task 2 – Data Cleaning and Transformation Using Power Query Editor](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/d1fcceef6a0589bf6fd296d86f60788ff9e3d37f/Mid%20Term%20Lab%20Task%202/Data%20Ceaning%20Lab2Task2.xlsx)
 
 
