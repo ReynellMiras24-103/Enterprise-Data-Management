@@ -14,4 +14,4 @@
 
 ### My Projects
 - :open_file_folder:Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/tree/9ecab0a36b6d6305b8069ee1c765bad0e28c3225/Midterm%20Lab%20Task%201)
-- :open_file_folder:Midterm Lab task 2:
+- :open_file_folder:Midterm Lab task 2:[Data Cleaning and Transformation Using Power Query Editor](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/tree/f94f2d7a7a4f092c773e5ade4bcdf7591df36dad/Mid%20Term%20Lab%20Task%202)
