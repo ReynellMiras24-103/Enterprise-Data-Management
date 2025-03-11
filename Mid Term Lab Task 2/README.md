@@ -24,5 +24,5 @@ on generating insights that will answer the ff: questions
 
 ### Here is the screenshot of the Dataset before doing Cleaning and Transformation
 ![image alt]()
-![image alt]()
+![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/680409885c6b4f015eec4b3f91a926023c224581/Mid%20Term%20Lab%20Task%202/Images/LAB2TASK1RAW.png)
 ![image alt]()
