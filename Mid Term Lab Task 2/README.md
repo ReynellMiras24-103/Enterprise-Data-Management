@@ -23,3 +23,6 @@ on generating insights that will answer the ff: questions
 - Reshape and Group the tables:
 
 ### Here is the screenshot of the Dataset before doing Cleaning and Transformation
+![image alt]()
+![image alt]()
+![image alt]()
