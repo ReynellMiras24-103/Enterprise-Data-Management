@@ -8,10 +8,9 @@
 -  Which Company Size pays the Highest(Complete the dashboard as shown below)
 -  Which Sector Employs the Lowest and Highest Data Science related Jobs
 -  Which Sector has the Minimum Average Salary and Maximum average Salary
-## the necessary Pivot Table, and appropriate charts for the necessary reports as shown
-## Insert Slicers for Role Type, Size and State
-## You may insert MAP if your Excel version has one 
-## You may apply your own design and colour settings to make your DASHBOARD look more appealing and presentable
-## The Slicers should make your Dashboard interactive
+- insert Slicers for Role Type, Size and State
+- You may insert MAP if your Excel version has one 
+- You may apply your own design and colour settings to make your DASHBOARD look more appealing and presentable
+- The Slicers should make your Dashboard interactive
 
 
