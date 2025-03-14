@@ -14,5 +14,6 @@
 - The Slicers should make your Dashboard interactive
 
 ### Here is the Final Output
+![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/ae0c4f573438480d78ebce4b7121395a8724c696/Mid%20Term%20Lab%203/DASHBOARD.png)
 
 
