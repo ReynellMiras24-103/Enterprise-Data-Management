@@ -12,6 +12,7 @@
 - You may insert MAP if your Excel version has one 
 - You may apply your own design and colour settings to make your DASHBOARD look more appealing and presentable
 - The Slicers should make your Dashboard interactive
+
 ### Here is the Final Output
 
 
