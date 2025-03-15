@@ -16,4 +16,6 @@
 ### Here is the Final Output
 ![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/ae0c4f573438480d78ebce4b7121395a8724c696/Mid%20Term%20Lab%203/DASHBOARD.png)
 
+### Here is the Dashboard File
+[Dashboard](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/f717179a13403f038e03d14ac2f4842056c929e4/Mid%20Term%20Lab%203/LAB%203%20Dashboard.xlsx)
 
