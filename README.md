@@ -16,6 +16,4 @@
 - 📂 **Midterm Lab Task 1:** [Data Cleaning and Preparation using Excel](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/tree/9ecab0a36b6d6305b8069ee1c765bad0e28c3225/Midterm%20Lab%20Task%201)
 - 📂 **Midterm Lab Task 2:** [Data Cleaning and Transformation Using Power Query Editor](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/tree/f94f2d7a7a4f092c773e5ade4bcdf7591df36dad/Mid%20Term%20Lab%20Task%202)
 - 📂 **Midterm Lab Task 1:** [Midterm Lab Task 3. Creating PIVOT TABLE and DASHBOARD
-](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/091633ab69b6995034ab7882f564dd5a3836553d/README.md)
-
-
+](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/35027bc114b232225dd2d6f1f06dc676e5486502/Mid%20Term%20Lab%203/README.md)
