@@ -17,5 +17,5 @@
 ![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/60707c0f7b68db1f86eb1e48b3161818049f2a80/Mid%20Term%20Lab%203/dashboard%20final.png)
 
 ### Here is the Dashboard File
-[Dashboard](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/f717179a13403f038e03d14ac2f4842056c929e4/Mid%20Term%20Lab%203/LAB%203%20Dashboard.xlsx)
+[Dashboard](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/f717179a13403f038e03d14ac2f4842056c929e4/Mid%20Term%20Lab%203/LAB%203%20Dashboard.xl)
 
