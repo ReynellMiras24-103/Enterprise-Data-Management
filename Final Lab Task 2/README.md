@@ -55,15 +55,18 @@ DESCRIBE submission_tbl;
 ![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/d1dcf8e2079fc8461b5cbd2f39b42895799ecce7/Final%20Lab%20Task%202/Files/ERD.png)
 
 ### The relationship 
-
+#### Student submit Submission
 - Student submit Submission
 - Cardinality: One-to-Many
 - A student can submit many submissions.
 - Each submission is submitted by one student.
 
-
+ #### Submission complete Assignment
 - Submission complete Assignment
 - Cardinality: Many-to-One
 - Many submissions can be for one assignment.
 - Each submission is related to exactly one assignment.
+
+### Here's the Sql copy of the database and table structures
+[student_task_db.sql](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/4b27f99dac1a39f0b6d51dac55e5b1782a4dedf7/Final%20Lab%20Task%202/Files/student_task_db.sql)
 
