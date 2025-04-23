@@ -84,4 +84,10 @@ from courses
 order  by students_enrolled asc;
 
 ![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/db7c0f65a3c09cdb93f41d51e989c4e063292b33/Final%20Task%203-1/files/TASK5.png)
+
+### Here's the SQL copy of the database and table structures
+
+[onlinecoursesDB.sql](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/2a88c1eced9dedf581efbce35f67554f3ea0af3d/Final%20Task%203-1/files/onlinecoursesDB.sql)
+
+
     
