@@ -52,36 +52,36 @@ VALUES
     ('Cybersecurity', 'Technology', 70, 65);
     
     
-    select * from courses;
+select * from courses;
 
-    ![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/b10bca161b456b896858fe3c1e4070faacff9d88/Final%20Task%203-1/files/couse%20table.png)
+![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/b10bca161b456b896858fe3c1e4070faacff9d88/Final%20Task%203-1/files/couse%20table.png)
     
     
     
-    select * from courses where students_enrolled < enrollment_limit;
+select * from courses where students_enrolled < enrollment_limit;
 
-     ![image]()
+![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/db7c0f65a3c09cdb93f41d51e989c4e063292b33/Final%20Task%203-1/files/task1.png)
     
-    select course_name, category, enrollment_limit, count(students_enrolled) as total_number_of_students_enrolled
-    from courses 
-    group by category;
+select course_name, category, enrollment_limit, count(students_enrolled) as total_number_of_students_enrolled
+from courses 
+group by category;
 
-     ![image]()
+![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/db7c0f65a3c09cdb93f41d51e989c4e063292b33/Final%20Task%203-1/files/TASk2.png)
     
-    select * 
-    from courses 
-    where  enrollment_limit = students_enrolled; 
+select * 
+from courses 
+where  enrollment_limit = students_enrolled; 
 
-     ![image]()
+ ![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/db7c0f65a3c09cdb93f41d51e989c4e063292b33/Final%20Task%203-1/files/TASK3.png)
     
     
-    select sum(students_enrolled) as total_number_Of_students_enrolled_in_all_courses from courses;
+select sum(students_enrolled) as total_number_Of_students_enrolled_in_all_courses from courses;
 
-     ![image]()
+![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/db7c0f65a3c09cdb93f41d51e989c4e063292b33/Final%20Task%203-1/files/TASk4.png)
     
-    select *
-    from courses 
-    order  by students_enrolled asc;
+select *
+from courses 
+order  by students_enrolled asc;
 
-     ![image]()
+![image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/db7c0f65a3c09cdb93f41d51e989c4e063292b33/Final%20Task%203-1/files/TASK5.png)
     
