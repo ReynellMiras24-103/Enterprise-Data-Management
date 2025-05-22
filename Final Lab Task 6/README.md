@@ -200,8 +200,10 @@ query the `movies` collection to
 1. get all documents
 ```
 db.movies.find()
-![image alt](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/8163f8f88341af9e24097b656fb274ebdca84dfe/Final%20Lab%20Task%206/Files/1.1.png)
-```
+
+![alt image](https://github.com/ReynellMiras24-103/Enterprise-Data-Management/blob/8163f8f88341af9e24097b656fb274ebdca84dfe/Final%20Lab%20Task%206/Files/1.1.png)
+
+
 2. get all documents with `writer` set to "Quentin Tarantino"
 ```
 db.movies.find({writer:"Quentin Tarantino"})
